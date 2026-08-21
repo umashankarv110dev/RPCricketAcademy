@@ -1,50 +1,104 @@
-# Welcome to your Expo app 👋
+# 🏏 RPCA – Cricket Academy Management App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
 
-1. Install dependencies
+A professional **Cricket Academy Management App** built with **React Native + Expo**, designed to help coaches manage players, attendance, fees, and academy activities from a single mobile application.
 
-   ```bash
-   npm install
-   ```
+## ✨ Features
 
-2. Start the app
+* 🔐 **Authentication** – Login & Registration
+* 📊 **Dashboard** – Academy overview and quick statistics
+* 👤 **Player Management** – Add, update, view player details
+* 📅 **Attendance Management** – Daily & monthly attendance tracking
+* 💰 **Fee Management** – Fee records, payment details & receipts
+* 🔔 **Notifications** – Academy and player-related notifications
+* 💾 **SQLite Database** – Local/offline data storage
+* 📱 **Responsive UI** – Optimized for Android devices
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tech Stack
 
-In the output, you'll find options to open the app in a
+* **React Native**
+* **Expo**
+* **TypeScript**
+* **Expo Router**
+* **SQLite**
+* **AsyncStorage**
+* **Ionicons**
+* **React Native Components**
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📱 Screenshots
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 🔐 Authentication
 
-## Get a fresh project
+<p align="center">
+  <img src="screenshots/login.png" width="250"/>
+  <img src="screenshots/register.png" width="250"/>
+</p>
 
-When you're ready, run:
+### 📊 Dashboard
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="250"/>
+</p>
+
+### 👤 Player Management
+
+<p align="center">
+  <img src="screenshots/players.png" width="250"/>
+  <img src="screenshots/player-details.png" width="250"/>
+</p>
+
+### 📅 Attendance
+
+<p align="center">
+  <img src="screenshots/attendance.png" width="250"/>
+</p>
+
+### 💰 Fees & Receipt
+
+<p align="center">
+  <img src="screenshots/fees.png" width="250"/>
+  <img src="screenshots/receipt.png" width="250"/>
+</p>
+
+## 🚀 Getting Started
 
 ```bash
-npm run reset-project
+git clone https://github.com/yourusername/RPCA.git
+cd RPCA
+
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+For Android:
 
-## Learn more
+```bash
+npx expo start --android
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📂 Main Modules
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```text
+RPCA
+├── Authentication
+├── Dashboard
+├── Player Management
+├── Attendance
+├── Fee Management
+├── Notifications
+└── SQLite Database
+```
 
-## Join the community
+## 🎯 Purpose
 
-Join our community of developers creating universal apps.
+RPCA simplifies day-to-day cricket academy operations by providing coaches with an easy-to-use platform for managing **players, attendance, fees and academy records**.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 👨‍💻 Developer
+
+**Umashankar Vishwakarma**
+Android & React Native Developer
+
+---
+
+⭐ If you find this project useful, consider giving it a **star** on GitHub.
