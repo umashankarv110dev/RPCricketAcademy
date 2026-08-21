@@ -1,6 +1,6 @@
 # 🏏 RPCA – Cricket Academy Management App
 
-
+![RPCricketAcademy](assets/screenshots/icon.jpeg)
 
 A professional **Cricket Academy Management App** built with **React Native + Expo**, designed to help coaches manage players, attendance, fees, and academy activities from a single mobile application.
 
@@ -26,39 +26,24 @@ A professional **Cricket Academy Management App** built with **React Native + Ex
 * **Ionicons**
 * **React Native Components**
 
-## 📱 Screenshots
+## 📸 Screenshots
 
-### 🔐 Authentication
+### Layout 01
 
-<p align="center">
-  <img src="screenshots/login.png" width="250"/>
-  <img src="screenshots/register.png" width="250"/>
-</p>
+![Layout 01](assets/screenshots/Screen01.png)
 
-### 📊 Dashboard
+### Layout 02
 
-<p align="center">
-  <img src="screenshots/dashboard.png" width="250"/>
-</p>
+![Layout 02](assets/screenshots/Screen02.png)
 
-### 👤 Player Management
+### Layout 03
 
-<p align="center">
-  <img src="screenshots/players.png" width="250"/>
-  <img src="screenshots/player-details.png" width="250"/>
-</p>
-
-### 📅 Attendance
-
-<p align="center">
-  <img src="screenshots/attendance.png" width="250"/>
-</p>
+![Layout 03](assets/screenshots/Screen03.png)
 
 ### 💰 Fees & Receipt
 
 <p align="center">
-  <img src="screenshots/fees.png" width="250"/>
-  <img src="screenshots/receipt.png" width="250"/>
+  <img src="screenshots/img09.jpg" width="250"/>
 </p>
 
 ## 🚀 Getting Started
